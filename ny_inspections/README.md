@@ -18,7 +18,7 @@ This project analyzes the **DOHMH New York City Restaurant Inspection Results** 
 ### Primary Goals
 1. **Data Quality Enhancement**: Clean and standardize raw inspection data
 2. **Trend Analysis**: Identify patterns in restaurant performance over time
-3. **Risk Assessment**: Identify restaurants with very closure risk
+3. **Risk Assessment**: Identify restaurants with very high closure risk
 4. **Geographic Insights**: Map food safety performance across NYC neighborhoods
 5. **Business Intelligence**: Provide benchmarking tools for restaurant owners
 
