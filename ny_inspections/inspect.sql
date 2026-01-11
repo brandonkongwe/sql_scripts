@@ -317,3 +317,4 @@ SELECT rp.CAMIS, rp.DBA, rp.BORO, rp.CUISINE_DESCRIPTION,
 FROM restaurant_performance rp
 JOIN peer_benchmarks pb ON rp.BORO = pb.BORO AND rp.CUISINE_DESCRIPTION = pb.CUISINE_DESCRIPTION
 ORDER BY rp.BORO, rp.CUISINE_DESCRIPTION, rp.restaurant_avg_score;
+
